@@ -1,0 +1,7 @@
+{
+  "name": "Karaoke AI World Explorer",
+  "description": "Karaoke mundial com pontuação em tempo real e busca inteligente de instrumentos.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
